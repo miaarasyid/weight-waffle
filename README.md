@@ -13,7 +13,6 @@ The program should take input from the user in **text areas** for height (in met
 The BMI will be calculated using the formula: BMI = weight (kg) / (height (m) * height (m)).
 
 The BMI based on the following ranges:
-|--------------|----------------|----------------|
 | BMI          | CLASSIFICATION | HEALTH RISK    |
 |--------------|----------------|----------------|
 | < 18.5       | Underweight    | Minimal        |
@@ -22,7 +21,6 @@ The BMI based on the following ranges:
 | 30 - 34.9    | Obese          | High           |
 | 35 - 39.9    | Severely Obese | Very High      |
 | >40          | Morbidly Obese | Extremely High |
-|--------------|----------------|----------------|
 
 # Condition
 a. if you fall under the "underweight" category, a message box will appear with a note: [ you may need to gain some weight. Consult a nutritionist for a proper diet
